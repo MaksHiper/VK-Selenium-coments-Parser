@@ -9,7 +9,7 @@ import time
 
 ua = UserAgent()
 
-url = "https://vk.com/wall-168141770_7582"
+url = "ссылка"
 options = webdriver.ChromeOptions()
 options.add_argument('--enable-javascript')
 options.add_argument(f'user-agent={ua.random}')
